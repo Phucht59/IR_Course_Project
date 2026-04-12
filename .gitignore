@@ -1,0 +1,41 @@
+# Environments
+venv/
+.env
+
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints
+
+# Data (Ignore actual data files but keep directory structure)
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Models
+models/*
+!models/.gitkeep
+!models/sentence_transformer/.gitkeep
+
+# Evaluation output
+evaluation/runs/*
+!evaluation/runs/.gitkeep
+evaluation/reports/*
+!evaluation/reports/.gitkeep
+evaluation/figures/*
+!evaluation/figures/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db

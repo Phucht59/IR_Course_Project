@@ -1,0 +1,17 @@
+query_id,query_text,aspect
+Q001,best pizza in town,food
+Q002,cold food undercooked steak,food
+Q003,fresh sushi great fish,food
+Q004,bland tasteless food,food
+Q005,slow service rude waiter,service
+Q006,friendly staff excellent service,service
+Q007,waited too long for food,service
+Q008,attentive waiter great hospitality,service
+Q009,romantic atmosphere date night,ambience
+Q010,noisy crowded restaurant,ambience
+Q011,cozy interior great decor,ambience
+Q012,outdoor patio nice view,ambience
+Q013,overpriced not worth the money,price
+Q014,great value cheap eats,price
+Q015,expensive but worth every penny,price
+Q016,affordable family friendly budget,price
